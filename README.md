@@ -49,8 +49,8 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jefferson2829&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson2829&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jefferson2829&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jefferson2829&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -61,6 +61,7 @@
 
 <p align="left">
   <a href="https://wa.me/573175653014"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jefferson-andres-amarillo-b34690404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jeffersonandresamarillo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

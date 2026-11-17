@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Jefferson Amarillo — Desarrollador Full Stack · IA" />
+<img src="assets/header-v2.svg" width="100%" alt="Jefferson Amarillo — Desarrollador Full Stack · IA" />
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider-v2.svg" width="100%" />
 
 <img align="right" src="assets/foto-sombra.png" width="260" alt="Foto de Jefferson Amarillo" />
 
@@ -32,7 +32,7 @@ const jefferson = new Asesino({
 
 <br clear="right" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider-v2.svg" width="100%" />
 
 ## ⚔️ Arsenal
 
@@ -44,7 +44,7 @@ const jefferson = new Asesino({
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider-v2.svg" width="100%" />
 
 ## 🗡️ Proyectos destacados
 
@@ -80,7 +80,7 @@ const jefferson = new Asesino({
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider-v2.svg" width="100%" />
 
 ## 👁️ Rastro en las sombras
 
@@ -97,7 +97,7 @@ const jefferson = new Asesino({
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider-v2.svg" width="100%" />
 
 ## 📫 Invócame
 
@@ -109,4 +109,4 @@ const jefferson = new Asesino({
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Desvanecido entre las sombras" />
+<img src="assets/footer-v2.svg" width="100%" alt="Desvanecido entre las sombras" />

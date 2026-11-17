@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=%F0%9F%8C%91+Entre+las+sombras%2C+escribo+c%C3%B3digo;%E2%9A%94%EF%B8%8F+Dos+caminos%3A+frontend+y+backend;%F0%9F%91%81%EF%B8%8F+Python+%C2%B7+JavaScript+%C2%B7+C%23+%C2%B7+React;%F0%9F%A9%B8+Bases+de+datos+MySQL+y+PostgreSQL;%F0%9F%A4%96+Explorando+LLMs+aplicados+al+software" alt="Typing SVG" /></a>
-
 <img src="https://komarev.com/ghpvc/?username=jefferson2829&label=Almas+que+han+pasado&color=1e1b4b&style=for-the-badge" />
 
 </div>
@@ -33,12 +31,6 @@ const jefferson = new Asesino({
 - 🔥 Responsable, adaptable y en mejora continua.
 
 <br clear="right" />
-
-<img src="assets/divider.svg" width="100%" />
-
-## 🌗 Dos caminos, un asesino
-
-<img src="assets/caminos.svg" width="100%" alt="Camino de la Sombra (frontend) y Camino de la Guadaña (backend, datos e IA)" />
 
 <img src="assets/divider.svg" width="100%" />
 

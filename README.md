@@ -8,21 +8,23 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4c1d95,100:7f1d1d&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 <img align="right" src="assets/foto-sombra.png" width="260" alt="Foto de Jefferson Amarillo" />
 
 ## 🌑 Sobre mí
 
 ```js
-const jefferson = {
+// 🌑 forma: sombra  ·  🔴 forma: guadaña
+const jefferson = new Asesino({
   rol:         "Desarrollador Junior Full Stack",
   ubicacion:   "Bucaramanga, Colombia 🇨🇴",
   formacion:   "Técnico en desarrollo de software",
   caminos:     ["Web", "Bases de datos", "IA"],
   aprendiendo: "LLMs aplicados al desarrollo",
   metodologia: "Scrum",
-};
+  habilidad:   "pasar entre bugs sin ser visto 👁️",
+});
 ```
 
 - 👁️ Exploro modelos de lenguaje (**LLMs**) aplicados al software.
@@ -32,7 +34,13 @@ const jefferson = {
 
 <br clear="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:4c1d95,100:1e1b4b&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
+
+## 🌗 Dos caminos, un asesino
+
+<img src="assets/caminos.svg" width="100%" alt="Camino de la Sombra (frontend) y Camino de la Guadaña (backend, datos e IA)" />
+
+<img src="assets/divider.svg" width="100%" />
 
 ## ⚔️ Arsenal
 
@@ -44,7 +52,7 @@ const jefferson = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4c1d95,100:7f1d1d&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## 🗡️ Proyectos destacados
 
@@ -80,7 +88,7 @@ const jefferson = {
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:4c1d95,100:1e1b4b&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## 👁️ Rastro en las sombras
 
@@ -97,7 +105,7 @@ const jefferson = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4c1d95,100:7f1d1d&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## 📫 Invócame
 
@@ -109,4 +117,4 @@ const jefferson = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050f,50:1e1b4b,100:7f1d1d&height=130&section=footer&text=Desvanecido%20entre%20las%20sombras...&fontSize=22&fontColor=93c5fd&fontAlignY=72" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="Desvanecido entre las sombras" />

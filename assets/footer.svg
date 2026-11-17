@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05050f" stop-opacity="0"/><stop offset="1" stop-color="#05050f"/></linearGradient>
+    <filter id="fog"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <g filter="url(#fog)">
+    <ellipse cx="300" cy="190" rx="300" ry="50" fill="#1e3a8a" opacity="0.5"><animate attributeName="cx" values="260;360;260" dur="12s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="900" cy="190" rx="300" ry="50" fill="#7f1d1d" opacity="0.5"><animate attributeName="cx" values="940;840;940" dur="12s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <!-- tres marcas que se apagan -->
+  <g fill="#60a5fa" filter="url(#g)">
+    <rect x="577" y="40" width="8" height="26" rx="4" transform="rotate(-14 581 53)"/><rect x="596" y="35" width="8" height="30" rx="4"/><rect x="615" y="40" width="8" height="26" rx="4" transform="rotate(14 619 53)"/>
+    <animate attributeName="opacity" values="1;1;0.1;0.1;1" keyTimes="0;0.4;0.55;0.85;1" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <text x="600" y="118" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="22" letter-spacing="3" fill="#a5b4fc">
+    Desvanecido entre las sombras...
+    <animate attributeName="opacity" values="1;1;0.2;0.2;1" keyTimes="0;0.4;0.55;0.85;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#64748b">inspirado en Omen (Valorant) y Kayn (League of Legends) · diseño original</text>
+</svg>

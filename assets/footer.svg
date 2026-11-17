@@ -10,8 +10,8 @@
     <ellipse cx="900" cy="190" rx="300" ry="50" fill="#7f1d1d" opacity="0.5"><animate attributeName="cx" values="940;840;940" dur="12s" repeatCount="indefinite"/></ellipse>
   </g>
   <!-- tres marcas que se apagan -->
-  <g fill="#60a5fa" filter="url(#g)">
-    <rect x="577" y="40" width="8" height="26" rx="4" transform="rotate(-14 581 53)"/><rect x="596" y="35" width="8" height="30" rx="4"/><rect x="615" y="40" width="8" height="26" rx="4" transform="rotate(14 619 53)"/>
+  <g fill="#a78bfa" filter="url(#g)">
+    <rect x="593" y="43" width="14" height="14" transform="rotate(45 600 50)"/>
     <animate attributeName="opacity" values="1;1;0.1;0.1;1" keyTimes="0;0.4;0.55;0.85;1" dur="6s" repeatCount="indefinite"/>
   </g>
   <text x="600" y="118" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="22" letter-spacing="3" fill="#a5b4fc">
